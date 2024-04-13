@@ -1,4 +1,4 @@
-![[Pasted image 20240412213827.png]]
+![alt text](<images/Pasted image 20240412213827.png>)
 What is bash?
 
 Bash is a scripting language that runs within the terminal on most Linux distros, as well as MacOS. 
