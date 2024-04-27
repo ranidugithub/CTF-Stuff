@@ -1,1 +1,1 @@
-![[Images/Pasted image 20240427143803.png]]
+![[TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240427143803.png]]
