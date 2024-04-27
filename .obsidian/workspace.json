@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acb92547dcfba39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd07c1af4c73b840",
-  "lastOpenFiles": []
+  "active": "acb92547dcfba39c",
+  "lastOpenFiles": [
+    "TryHackMe/Rooms/Hard/Year of the Owl.md",
+    "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+    "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240427143803.png",
+    "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240427143803 1.png",
+    "TryHackMe/Rooms/Easy/Capture!/Images/1.PNG"
+  ]
 }
