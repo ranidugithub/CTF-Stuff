@@ -1,1 +1,1 @@
-![](Images/Pasted%20image%2020240427143803.png)![](TryHackMe/Rooms/Easy/Capture!/Images/Pasted%20image%2020240427143803.png)
+![](TryHackMe/Rooms/Easy/Capture!/Images/Pasted%20image%2020240427143803.png)
