@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/2. Hello World.md",
+                "file": "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/2. Hello World.md",
+                "file": "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/2. Hello World.md",
+                "file": "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/2. Hello World.md"
+                "file": "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "acb92547dcfba39c",
   "lastOpenFiles": [
-    "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md",
     "Scripting Practice/Bash Scripting/2. Hello World.md",
+    "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md",
     "Scripting Practice/Bash Scripting/Images/executing-bash-script-on-multiple-remote-server.jpg",
     "Scripting Practice/Bash Scripting/Images",
     "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
