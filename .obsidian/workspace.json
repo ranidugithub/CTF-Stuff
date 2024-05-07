@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+                "file": "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+                "file": "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+                "file": "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Rooms/Easy/Capture!/Capture!.md"
+                "file": "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md"
               }
             }
           }
@@ -161,9 +161,18 @@
   },
   "active": "acb92547dcfba39c",
   "lastOpenFiles": [
+    "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507123436.png",
+    "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+    "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
+    "HTB/Challenges/Hardware/Very Easy/The Needle/Images",
+    "HTB/Challenges/Hardware/Very Easy/The Needle",
+    "HTB/Challenges/Hardware/Very Easy/Untitled.md",
+    "HTB/Challenges/Hardware/Very Easy",
+    "HTB/Challenges/Very Easy/Untitled",
+    "HTB/Challenges/Hardware",
+    "HTB/Challenges",
     "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240507110056.png",
     "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240427143803.png",
-    "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
     "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240427143803 1.png",
     "TryHackMe/Rooms/Hard/Year of the Owl.md",
     "imagesPasted image 20240427143803.md",
