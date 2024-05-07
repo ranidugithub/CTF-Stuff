@@ -1,4 +1,3 @@
-```
 #! /bin/bash
 
 
@@ -10,4 +9,3 @@ ip_address=$(echo "$ifconfig_output" | grep 'eth0' -A 1 | grep 'inet ' | awk '{p
 
 # Print the IP address
 echo "$ip_address"
-```

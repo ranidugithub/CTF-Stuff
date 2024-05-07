@@ -14,11 +14,25 @@ The scripts in this project serve as practical examples of how Bash can be used 
 
 To use the scripts provided in this project:
 
-1. Clone the repository to your local machine.
+1. Copy the below code.
 2. Navigate to the project directory.
 3. Review the scripts and modify them as needed for your system.
 4. Make the scripts executable using the command `chmod +x script_name.sh`.
 5. Execute the scripts using the command `./script_name.sh`.
+
+```
+#! /bin/bash
+
+
+# Run the ifconfig command and filter the output
+ifconfig_output=$(ifconfig)
+
+# Use grep to find the line with the eth0 interface and the inet (IPv4) address
+ip_address=$(echo "$ifconfig_output" | grep 'eth0' -A 1 | grep 'inet ' | awk '{print $2}')
+
+# Print the IP address
+echo "$ip_address"
+```
 
 For convenience, you can also define aliases in your shell configuration file to quickly run the scripts. For example, the `show_ip` alias can be defined as follows:
 
