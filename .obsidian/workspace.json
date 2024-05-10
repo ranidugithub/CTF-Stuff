@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",
+                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",
+                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",
+                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md"
+                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md"
               }
             }
           }
@@ -161,19 +161,27 @@
   },
   "active": "acb92547dcfba39c",
   "lastOpenFiles": [
+    "HTB/Challenges/Revercing/Easy/Bypass/images/Pasted image 20240510112429.png",
+    "HTB/Challenges/Revercing/Easy/Bypass/images/Pasted image 20240510112323.png",
+    "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+    "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
+    "HTB/Challenges/Revercing/Easy/Bypass/images",
+    "HTB/Challenges/Revercing/Easy/Bypass",
+    "HTB/Challenges/Revercing/Easy",
+    "HTB/Challenges/Revercing",
+    "WireShark/WireShark MasterClass/images",
+    "WireShark/WireShark MasterClass",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/NetShell Tools.md",
+    "WireShark/WireShark MasterClass/WireShark MasterClass Notes.md",
+    "WireShark",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools",
     "Scripting Practice/Bash Scripting/2. Hello World.md",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects",
     "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md",
-    "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
     "Scripting Practice/Bash Scripting/Images/executing-bash-script-on-multiple-remote-server.jpg",
-    "Scripting Practice/Bash Scripting/Images",
     "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
-    "Scripting Practice/Bash Scripting",
-    "Scripting Practice",
     "Untitled.canvas",
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507133355.png",
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507132501.png",
@@ -182,13 +190,8 @@
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507130124.png",
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507125453.png",
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507123436.png",
-    "HTB/Challenges/Hardware/Very Easy/The Needle/Images",
-    "HTB/Challenges/Hardware/Very Easy/The Needle",
     "HTB/Challenges/Hardware/Very Easy/Untitled.md",
-    "HTB/Challenges/Hardware/Very Easy",
-    "HTB/Challenges/Very Easy/Untitled",
     "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240507110056.png",
-    "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240427143803.png",
     "TryHackMe/Rooms/Hard/Year of the Owl.md",
     "imagesPasted image 20240427143803.md"
   ]
