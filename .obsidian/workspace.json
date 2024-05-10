@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
+                "file": "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
+                "file": "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
+                "file": "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md"
+                "file": "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md"
               }
             }
           }
@@ -161,26 +161,26 @@
   },
   "active": "acb92547dcfba39c",
   "lastOpenFiles": [
+    "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/NetShell Tools.md",
+    "Scripting Practice/Bash Scripting/Learning",
+    "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",
+    "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
     "HTB/Challenges/Revercing/Easy/Bypass/images/Pasted image 20240510112429.png",
     "HTB/Challenges/Revercing/Easy/Bypass/images/Pasted image 20240510112323.png",
     "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
-    "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
     "HTB/Challenges/Revercing/Easy/Bypass/images",
     "HTB/Challenges/Revercing/Easy/Bypass",
     "HTB/Challenges/Revercing/Easy",
     "HTB/Challenges/Revercing",
     "WireShark/WireShark MasterClass/images",
     "WireShark/WireShark MasterClass",
-    "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/NetShell Tools.md",
     "WireShark/WireShark MasterClass/WireShark MasterClass Notes.md",
     "WireShark",
-    "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools",
-    "Scripting Practice/Bash Scripting/2. Hello World.md",
+    "Scripting Practice/Bash Scripting/Learning/2. Hello World.md",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects",
-    "Scripting Practice/Bash Scripting/Bash Scripting Projects",
-    "Scripting Practice/Bash Scripting/1. Introduction to Bash Scripting..md",
-    "Scripting Practice/Bash Scripting/Images/executing-bash-script-on-multiple-remote-server.jpg",
+    "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
+    "Scripting Practice/Bash Scripting/Learning/Images/executing-bash-script-on-multiple-remote-server.jpg",
     "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
     "Untitled.canvas",
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507133355.png",
@@ -191,7 +191,6 @@
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507125453.png",
     "HTB/Challenges/Hardware/Very Easy/The Needle/Images/Pasted image 20240507123436.png",
     "HTB/Challenges/Hardware/Very Easy/Untitled.md",
-    "TryHackMe/Rooms/Easy/Capture!/Images/Pasted image 20240507110056.png",
     "TryHackMe/Rooms/Hard/Year of the Owl.md",
     "imagesPasted image 20240427143803.md"
   ]
