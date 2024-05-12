@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
+                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
+                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
+                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md"
+                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md"
               }
             }
           }
@@ -161,23 +161,24 @@
   },
   "active": "acb92547dcfba39c",
   "lastOpenFiles": [
+    "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512171936.png",
+    "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512171903.png",
+    "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512165623.png",
+    "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512165024.png",
+    "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512164813.png",
+    "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512160013.png",
+    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
+    "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
+    "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512140430.png",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512140413.png",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512140112.png",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512135508.png",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512135325.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512134949.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512134816.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512134740.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512134658.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512134616.png",
     "Untitled.canvas",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512133213.png",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface",
     "Scripting Practice/Bash Scripting/Learning/2. Hello World.md",
-    "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/NetShell Tools.md",
     "Scripting Practice/Bash Scripting/Learning",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",

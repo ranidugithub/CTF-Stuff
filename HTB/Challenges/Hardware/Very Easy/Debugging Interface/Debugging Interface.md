@@ -1,6 +1,6 @@
 ![](images/Pasted%20image%2020240512133213.png)
 
-CHALLENGE DESCRIPTION
+## CHALLENGE DESCRIPTION
 
 We accessed the embedded device's asynchronous serial debugging interface while it was operational and captured some messages that were being transmitted over it. Can you decode them?
 
