@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acb92547dcfba39c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
+                "file": "Programming/C#/Course1/HelloWorld.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
+                "file": "Programming/C#/Course1/HelloWorld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
+                "file": "Programming/C#/Course1/HelloWorld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripting Practice/Bash Scripting/Learning/3 Variables.md"
+                "file": "Programming/C#/Course1/HelloWorld.md"
               }
             }
           }
@@ -159,8 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acb92547dcfba39c",
+  "active": "fd07c1af4c73b840",
   "lastOpenFiles": [
+    "Programming/C#/Course1/images/Pasted image 20240611120815.png",
+    "Programming/C#/Course1/C# course/C# course/r3qzatix.mh3~",
+    "Programming/C#/Course1/C# course/C# course/obj/Debug/C# course.csproj.FileListAbsolute.txt",
+    "Programming/C#/Course1/C# course/C# course/bin/Debug/C# course.pdb",
+    "Programming/C#/Course1/C# course/C# course/bin/Debug/C# course.exe",
+    "Programming/C#/Course1/C# course/C# course/bin/Debug/C# course.exe.config",
+    "Programming/C#/Course1/C# course/C# course/obj/Debug/C# course.pdb",
+    "Programming/C#/Course1/C# course/C# course/obj/Debug/C# course.exe",
+    "Programming/C#/Course1/C# course/C# course/obj/Debug/C# course.csproj.CoreCompileInputs.cache",
+    "Programming/C#/Course1/C# course/C# course/0ucly1oy.vom~",
+    "Programming/C#/Course1/images/Pasted image 20240611105741.png",
+    "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
+    "Programming/C#/Course1/C# course/images/Pasted image 20240611105428.png",
+    "Programming/C#/Course1/C# course/images/Pasted image 20240611105607.png",
+    "Programming/C#/Course1/HelloWorld.md",
+    "Programming/C#/Course1/images",
+    "Programming/C#/Course1/Introduction.md",
+    "Data Structures and Algorithms(Python)/1. Introduction.md",
+    "Data Structures and Algorithms(Python)/2. Part 1 - Binary Search, Linked Lists and Complexity.md",
+    "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
     "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512171936.png",
     "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512171903.png",
     "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512165623.png",
@@ -168,30 +175,14 @@
     "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512164813.png",
     "Scripting Practice/Bash Scripting/Learning/Images/Pasted image 20240512160013.png",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
-    "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
     "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
     "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512140430.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512140413.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512140112.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512135508.png",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images/Pasted image 20240512135325.png",
     "Untitled.canvas",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface/images",
-    "HTB/Challenges/Hardware/Very Easy/Debugging Interface",
     "Scripting Practice/Bash Scripting/Learning/2. Hello World.md",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/NetShell Tools.md",
-    "Scripting Practice/Bash Scripting/Learning",
     "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/netshell.sh.md",
     "HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
-    "TryHackMe/Rooms/Easy/Capture!/Capture!.md",
-    "HTB/Challenges/Revercing/Easy/Bypass/images",
-    "HTB/Challenges/Revercing/Easy/Bypass",
-    "HTB/Challenges/Revercing/Easy",
-    "HTB/Challenges/Revercing",
-    "WireShark/WireShark MasterClass/images",
-    "WireShark/WireShark MasterClass",
     "WireShark/WireShark MasterClass/WireShark MasterClass Notes.md",
-    "WireShark",
     "HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
     "HTB/Challenges/Hardware/Very Easy/Untitled.md",
     "TryHackMe/Rooms/Hard/Year of the Owl.md",

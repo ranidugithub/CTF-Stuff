@@ -1,0 +1,47 @@
+![](images/Pasted%20image%2020240611105741.png)
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+**using Directives**: These lines tell the compiler to include the specified namespaces, which contain useful classes and methods.
+
+- **System**: Basic functions like input/output operations, data types, etc.
+- **System.Collections.Generic**: Contains classes for collections like lists and dictionaries.
+- **System.Linq**: Provides functionalities for querying collections.
+- **System.Text**: Classes for working with text.
+- **System.Threading.Tasks**: Allows parallel programming and asynchronous operations.
+
+namespace HelloWorld
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
+
+- **namespace HelloWorld**:
+    
+    - Groups related classes together.
+    - Here, `HelloWorld` is the name of the namespace.
+- **internal class Program**:
+    
+    - `internal`: The class `Program` is accessible only within the same assembly.
+    - `class Program`: Defines a class named `Program`.
+- **static void Main(string[] args)**:
+    
+    - This is the entry point of the program where execution begins.
+    - `static`: The method belongs to the class itself, not to an instance of the class.
+    - `void`: The method does not return any value.
+    - `Main`: The name of the method.
+    - `string[] args`: An array of strings to hold command-line arguments.
+- **{ }**:
+    
+    - The braces `{ }` define the scope of the class and method.
+
+![](images/Pasted%20image%2020240611120815.png)

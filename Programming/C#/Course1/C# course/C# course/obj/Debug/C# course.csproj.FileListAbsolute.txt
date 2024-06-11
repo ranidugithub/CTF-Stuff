@@ -1,0 +1,7 @@
+D:\My Everything\My Stuff\Notes\CTF Stuff\Programming\C#\Course1\C# course\C# course\bin\Debug\C# course.exe.config
+D:\My Everything\My Stuff\Notes\CTF Stuff\Programming\C#\Course1\C# course\C# course\bin\Debug\C# course.exe
+D:\My Everything\My Stuff\Notes\CTF Stuff\Programming\C#\Course1\C# course\C# course\bin\Debug\C# course.pdb
+D:\My Everything\My Stuff\Notes\CTF Stuff\Programming\C#\Course1\C# course\C# course\obj\Debug\C# course.csproj.AssemblyReference.cache
+D:\My Everything\My Stuff\Notes\CTF Stuff\Programming\C#\Course1\C# course\C# course\obj\Debug\C# course.csproj.CoreCompileInputs.cache
+D:\My Everything\My Stuff\Notes\CTF Stuff\Programming\C#\Course1\C# course\C# course\obj\Debug\C# course.exe
+D:\My Everything\My Stuff\Notes\CTF Stuff\Programming\C#\Course1\C# course\C# course\obj\Debug\C# course.pdb
