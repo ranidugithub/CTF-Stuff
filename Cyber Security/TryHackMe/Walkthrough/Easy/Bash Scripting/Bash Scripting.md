@@ -1,4 +1,4 @@
-![alt text](<images/Pasted image 20240412213827.png>)
+![alt text](Bash%20Scripting/images/Pasted%20image%2020240412213827.png image 20240412213827.png>)
 What is bash?
 
 Bash is a scripting language that runs within the terminal on most Linux distros, as well as MacOS. 
@@ -71,9 +71,9 @@ When running at the command line you can do:
 
 Lets create a script and check how debug mode works.
 
-![alt text](<images/Pasted image 20240413102624.png>)
+![alt text](Bash%20Scripting/images/Pasted%20image%2020240413102624.png image 20240413102624.png>)
 
-![alt text](<images/Pasted image 20240413102718.png>)
+![alt text](Bash%20Scripting/images/Pasted%20image%2020240413102718.png image 20240413102718.png>)
 
 as above shown set -x and set +x show the range that needed to be debugged.
 
