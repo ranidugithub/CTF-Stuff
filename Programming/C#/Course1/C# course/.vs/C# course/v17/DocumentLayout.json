@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\My Everything\\My Stuff\\Notes\\CTF Stuff\\Programming\\C#\\Course1\\C# course\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EAECCC0-803A-4510-8E1E-25A42BD2DD5E}|C# course\\C# course.csproj|d:\\my everything\\my stuff\\notes\\ctf stuff\\programming\\c#\\course1\\c# course\\c# course\\string_chars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAECCC0-803A-4510-8E1E-25A42BD2DD5E}|C# course\\C# course.csproj|solutionrelative:c# course\\string_chars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EAECCC0-803A-4510-8E1E-25A42BD2DD5E}|C# course\\C# course.csproj|d:\\my everything\\my stuff\\notes\\ctf stuff\\programming\\c#\\course1\\c# course\\c# course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EAECCC0-803A-4510-8E1E-25A42BD2DD5E}|C# course\\C# course.csproj|solutionrelative:c# course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAECCC0-803A-4510-8E1E-25A42BD2DD5E}|C# course\\C# course.csproj|d:\\my everything\\my stuff\\notes\\ctf stuff\\programming\\c#\\course1\\c# course\\c# course\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9EAECCC0-803A-4510-8E1E-25A42BD2DD5E}|C# course\\C# course.csproj|solutionrelative:c# course\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\My Everything\\My Stuff\\Notes\\CTF Stuff\\Programming\\C#\\Course1\\C# course\\C# course\\App.config",
+              "RelativeDocumentMoniker": "C# course\\App.config",
+              "ToolTip": "D:\\My Everything\\My Stuff\\Notes\\CTF Stuff\\Programming\\C#\\Course1\\C# course\\C# course\\App.config",
+              "RelativeToolTip": "C# course\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T05:49:13.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "String_chars.cs",
+              "DocumentMoniker": "D:\\My Everything\\My Stuff\\Notes\\CTF Stuff\\Programming\\C#\\Course1\\C# course\\C# course\\String_chars.cs",
+              "RelativeDocumentMoniker": "C# course\\String_chars.cs",
+              "ToolTip": "D:\\My Everything\\My Stuff\\Notes\\CTF Stuff\\Programming\\C#\\Course1\\C# course\\C# course\\String_chars.cs",
+              "RelativeToolTip": "C# course\\String_chars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:35:07.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Everything\\My Stuff\\Notes\\CTF Stuff\\Programming\\C#\\Course1\\C# course\\C# course\\Program.cs",
               "RelativeDocumentMoniker": "C# course\\Program.cs",
               "ToolTip": "D:\\My Everything\\My Stuff\\Notes\\CTF Stuff\\Programming\\C#\\Course1\\C# course\\C# course\\Program.cs",
               "RelativeToolTip": "C# course\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T12:05:57.613Z",
               "EditorCaption": ""
