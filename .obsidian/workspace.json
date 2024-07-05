@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md",
+                "file": "Programming/JavaScript/Javascript mastery course/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2ad4d8ee7e22390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/JavaScript/Javascript mastery course/Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md",
+                "file": "Programming/JavaScript/Javascript mastery course/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md",
+                "file": "Programming/JavaScript/Javascript mastery course/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md"
+                "file": "Programming/JavaScript/Javascript mastery course/Introduction.md"
               }
             }
           }
@@ -159,12 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38d2ac61f4f5544e",
+  "active": "a2ad4d8ee7e22390",
   "lastOpenFiles": [
+    "Programming/JavaScript/Javascript mastery course/images/Pasted image 20240705131849.png",
+    "Programming/JavaScript/Javascript mastery course/images/Pasted image 20240705132232.png",
+    "Programming/JavaScript/Javascript mastery course/images/Pasted image 20240705212821.png",
+    "Programming/JavaScript/Javascript mastery course/Introduction.md",
+    "Programming/JavaScript/Javascript mastery course/images",
+    "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md",
+    "Programming/JavaScript/Javascript mastery course",
+    "Programming/JavaScript",
     "Programming/C#/C# Interview Questions/Easy/images",
     "Programming/C#/C# Interview Questions/Easy/images/Pasted image 20240703201541.png",
     "Programming/C#/C# Interview Questions/Easy/Prime Numbers.md",
-    "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md",
     "DSA/Dara Structures and Algorithms(C#)/Collections.md",
     "Programming/C#/C# Interview Questions/Easy",
     "Programming/C#/C# Interview Questions",
@@ -177,9 +196,6 @@
     "Programming/C#/Course1/2.HelloWorld.md",
     "Programming/C#/Course1/C# course/C# course/hmvzgtiy.e2g~",
     "Programming/C#/Course1/C# course/C# course/uss1song.33v~",
-    "Programming/C#/Course1/C# course/C# course/obj/Debug/DesignTimeResolveAssemblyReferences.cache",
-    "Programming/C#/Course1/C# course/C# course/String_chars.cs",
-    "Programming/C#/Course1/C# course/C# course/Class1.cs",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Snyk Open Source/Snyk Open Source.md",
     "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
     "DSA/Data Structures and Algorithms(Python)/2. Part 1 - Binary Search, Linked Lists and Complexity.md",
@@ -188,16 +204,12 @@
     "Pasted image 20240622003902.png",
     "Pasted image 20240622003915.png",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Bash Scripting/Bash Scripting.md",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Snyk Open Source/images",
     "Programming/C#/Course1/C# course/3.DataTypes.md",
     "Programming/C#/Course1/images/Pasted image 20240612014825.png",
     "Programming/C#/Course1/1.Introduction.md",
     "Untitled.canvas",
     "Programming/C#/Course1/images/Pasted image 20240611120815.png",
-    "Programming/C#/Course1/images/Pasted image 20240611105741.png",
     "Cyber Security/TryHackMe/Rooms/Easy/Capture!/Capture!.md",
-    "Programming/C#/Course1/C# course/images/Pasted image 20240611105428.png",
-    "Programming/C#/Course1/C# course/images/Pasted image 20240611105607.png",
     "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
     "Cyber Security/HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
     "Scripting Practice/Bash Scripting/Learning/2. Hello World.md",
@@ -206,7 +218,6 @@
     "Cyber Security/HTB/Challenges/Revercing/Easy/Bypass/Bypass.md",
     "WireShark/WireShark MasterClass/WireShark MasterClass Notes.md",
     "Cyber Security/HTB/Challenges/Hardware/Very Easy/The Needle/The Needle.md",
-    "HTB/Challenges/Hardware/Very Easy/Untitled.md",
-    "Cyber Security/TryHackMe/Rooms/Hard/Year of the Owl.md"
+    "HTB/Challenges/Hardware/Very Easy/Untitled.md"
   ]
 }
