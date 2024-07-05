@@ -4,7 +4,7 @@
 JavaScript is technology that we to create websites.
 we can give instructions for a computer to do/make something.
 
-we can use 3 simple technologies to to build websites?
+we can use 3 simple technologies to build websites.
 
 - HTML
 - CSS 
