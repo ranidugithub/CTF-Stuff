@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md",
+                "file": "Programming/C#/C# Pattern Practice/Right-Angled Triangle Star Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md",
+                "file": "Programming/C#/C# Pattern Practice/Right-Angled Triangle Star Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md",
+                "file": "Programming/C#/C# Pattern Practice/Right-Angled Triangle Star Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md"
+                "file": "Programming/C#/C# Pattern Practice/Right-Angled Triangle Star Pattern.md"
               }
             }
           }
@@ -148,13 +148,21 @@
   },
   "active": "952a51d4505532fc",
   "lastOpenFiles": [
+    "Programming/C#/C# Pattern Practice/Images/Pasted image 20240720221235.png",
+    "Programming/C#/C# Pattern Practice/Images/Pasted image 20240720221209.png",
+    "Programming/C#/C# Pattern Practice/Images/Pasted image 20240720220536.png",
+    "Programming/C#/C# Pattern Practice/Images/Pasted image 20240720210443.png",
+    "Programming/C#/C# Pattern Practice/Images",
+    "Programming/C#/Course1/4.Converting Strings to Numbers.md",
+    "Programming/C#/C# Pattern Practice/Right-Angled Triangle Star Pattern.md",
+    "Programming/C#/C# Pattern Practice",
+    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/components/TodoCard.jsx",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/components/TodoList.jsx",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/components/TodoInput.jsx",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/components",
     "Web Development/ReactJS/ReactJS full Course/images/Pasted image 20240716122352.png",
     "Pasted image 20240716121907.png",
-    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md",
     "Web Development/ReactJS/ReactJS full Course/1.Introduction.md",
     "Web Development/ReactJS/ReactJS full Course/images/Pasted image 20240716120743.png",
     "Web Development/ReactJS/ReactJS full Course/images/Pasted image 20240716121027.png",
@@ -165,23 +173,16 @@
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/assets/react.svg",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/main.jsx",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/index.css",
-    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/assets",
-    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/App.css",
-    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/src/App.jsx",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/README.md",
-    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/public/vite.svg",
     "Web Development/ReactJS/Untitled.md",
     "Web Development/Untitled.md",
     "Untitled.canvas",
     "Scripting Practice/Bash Scripting/Learning/2. Hello World.md",
     "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
     "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
-    "Programming/C#/Course1/4.Converting Strings to Numbers.md",
     "Programming/C#/Course1/3.Text-Based data types.md",
     "Programming/C#/Course1/2.HelloWorld.md",
     "Programming/C#/Course1/1.Introduction.md",
-    "Programming/JavaScript/Javascript mastery course/images/Pasted image 20240705222919.png",
-    "Programming/JavaScript/Javascript mastery course/images/Pasted image 20240705223314.png",
     "Programming/C#/Course1/C# course/3.DataTypes.md",
     "Programming/C#/C# Interview Questions/Easy/Prime Numbers.md",
     "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md",
@@ -193,7 +194,6 @@
     "DSA/Dara Structures and Algorithms(C#)/1.Intro & Abstract Data Types.md",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Bash Scripting/Bash Scripting.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Capture!/Capture!.md",
-    "Cyber Security/HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md",
-    "Scripting Practice/Bash Scripting/Bash Scripting Projects/Mini Projects/NetShell Tools/NetShell Tools.md"
+    "Cyber Security/HTB/Challenges/Hardware/Very Easy/Debugging Interface/Debugging Interface.md"
   ]
 }
