@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md",
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md",
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md",
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md"
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md"
               }
             }
           }
@@ -146,26 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a51d4505532fc",
+  "active": "76b70f63555556af",
   "lastOpenFiles": [
-    "Pasted image 20240729155740.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729153927.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729141743.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729141200.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729140524.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729133326.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729122508.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729121322.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729120548.png",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images/Pasted image 20240729082806.png",
-    "Programming/Python/Competitve Practice/LeetCode/1.Two Sum.md",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/images/Pasted image 20240730164327.png",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/images/Pasted image 20240730163915.png",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
+    "Cyber Security/TryHackMe/Rooms/Hard/Year of the Owl.md",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/images",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics",
+    "Cyber Security/PicoCTF/PicoCTF 2024",
+    "Cyber Security/PicoCTF/Untitled.md",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/AirPlane.md",
+    "Pasted image 20240730112647.png",
+    "Pasted image 20240730111844.png",
+    "Pasted image 20240730111657.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images/Pasted image 20240730105858.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images/Pasted image 20240730103907.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images/Pasted image 20240730100546.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images/Pasted image 20240730104445.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images/Pasted image 20240730103241.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images/Pasted image 20240730103107.png",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images",
+    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane",
+    "Cyber Security/TryHackMe/Rooms/Untitled",
+    "Programming/Python/Competitve Practice/LeetCode/1.Two Sum.md",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Images",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Critical",
-    "Programming/Python/Competitve Practice/LeetCode/images/Pasted image 20240723212846.png",
     "Programming/C#/Course1/4.Converting Strings to Numbers.md",
-    "Programming/Python/Competitve Practice/LeetCode/images",
-    "Programming/Python/Competitve Practice/LeetCode",
     "Programming/C#/Course1/3.Text-Based data types.md",
     "Programming/C#/Course1/2.HelloWorld.md",
     "Programming/C#/Course1/1.Introduction.md",
@@ -174,26 +184,16 @@
     "Programming/Python/Course/OOP Python Course/1.Course Overview.md",
     "Programming/Python/Competitve Practice/HackerRank/Algorithms/Solve Me First.md",
     "Programming/C#/Course1/C# course/3.DataTypes.md",
-    "Programming/Python/Course/OOP Python Course/Course Files",
-    "Programming/Python/Course/OOP Python Course/Images",
-    "Programming/Python/Course/OOP Python Course",
-    "Programming/Python/Course",
     "Web Development/ReactJS/ReactJS full Course/1.Introduction.md",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md",
     "Untitled.canvas",
-    "Programming/Python/Competitve Practice/HackerRank/Images",
     "Programming/Python/Competitve Practice/HackerRank/Untitled.md",
     "Programming/C#/C# Pattern Practice/Right-Angled Triangle Star Pattern.md",
-    "Programming/Python/Competitve Practice/HackerRank/Algorithms",
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/README.md",
     "Web Development/ReactJS/Untitled.md",
     "Web Development/Untitled.md",
     "Scripting Practice/Bash Scripting/Learning/2. Hello World.md",
     "Scripting Practice/Bash Scripting/Learning/3 Variables.md",
-    "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md",
-    "Programming/C#/C# Interview Questions/Easy/Prime Numbers.md",
-    "Programming/C#/C# Interview Questions/Easy/Fibonacci Series.md",
-    "Programming/JavaScript/Javascript mastery course/Introduction.md",
-    "Cyber Security/TryHackMe/Walkthrough/Easy/Snyk Open Source/Snyk Open Source.md"
+    "Scripting Practice/Bash Scripting/Learning/1. Introduction to Bash Scripting..md"
   ]
 }

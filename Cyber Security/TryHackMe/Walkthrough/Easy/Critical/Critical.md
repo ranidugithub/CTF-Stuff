@@ -32,7 +32,7 @@ During the memory acquisition phase, we'll copy the live memory to a file, commo
 - What type of memory is analyzed during a forensic memory task?
 	RAM
 
-1. In which phase will you create a memory dump of the target system?
+ - In which phase will you create a memory dump of the target system?
 	Memory Acquisition
 
 
@@ -189,7 +189,7 @@ With the information we have collected, we can investigate the process critical_
 and we need to check for important document.pdf
 we can search for cat mftscan_out | grep important
 then we get the timestamp of that file created.
-![](../../../../../Pasted%20image%2020240729155740.png)
+![](Images/Pasted%20image%2020240729155740.png)
 
 
 Getting the Goods
