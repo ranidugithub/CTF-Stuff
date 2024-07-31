@@ -49,10 +49,10 @@ we can use burpsuite to continue the process much easier.
 open burpsuite and we can intercept the network and refresh link.
 
 so we will get some thing like this. we need to send this to repeater for further investigation.
-![](../../../../../Pasted%20image%2020240730111657.png)
+![](Images/Pasted%20image%2020240730111657.png)
 
 if we click send in repeater, we can see them clearly.
-![](../../../../../Pasted%20image%2020240730111844.png)
+![](Images/Pasted%20image%2020240730111844.png)
 
 now lets check environment information or who is the current user of this session.
 
@@ -65,7 +65,7 @@ for that we can add proc/self/environ at the end.
     - Other sensitive data.
 
 
-![](../../../../../Pasted%20image%2020240730112647.png)
+![](Images/Pasted%20image%2020240730112647.png)
 
 since this home directory shows as Hudson, we can make sure that we are in Hudson session.
 
