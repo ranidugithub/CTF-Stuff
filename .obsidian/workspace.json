@@ -61,12 +61,8 @@
             "id": "9d01c330a78fedf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -197,12 +190,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76b70f63555556af",
+  "active": "9d01c330a78fedf3",
   "lastOpenFiles": [
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/zbar.md",
+    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/images/Pasted image 20240801124611.png",
     "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/images/Pasted image 20240801113557.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731160145.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/images",
     "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731160713.png",
@@ -213,8 +208,6 @@
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731153156.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731151534.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731151040.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731150006.png",
-    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom",
     "Cyber Security/TryHackMe/Rooms/Hard/Year of the Owl.md",
