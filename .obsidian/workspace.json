@@ -51,16 +51,26 @@
             "id": "96bab89a82ba107d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731160713.png"
+              }
+            }
+          },
+          {
+            "id": "9d01c330a78fedf3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/mKingdom.md",
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/mKingdom.md",
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/mKingdom.md",
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/mKingdom.md"
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md"
               }
             }
           }
@@ -187,20 +197,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96bab89a82ba107d",
+  "active": "76b70f63555556af",
   "lastOpenFiles": [
-    "Pasted image 20240731160713.png",
-    "Pasted image 20240731160205.png",
-    "Pasted image 20240731160145.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731144744.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/images/Pasted image 20240801124611.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/images/Pasted image 20240801113557.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731160145.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
+    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/images",
+    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy",
+    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731160713.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/mKingdom.md",
+    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731160205.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731144744.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731155018.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731153156.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731151534.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731151040.png",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731150006.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731144111.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images/Pasted image 20240731143301.png",
     "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom",
@@ -214,8 +227,6 @@
     "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/AirPlane.md",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md",
     "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/Images",
-    "Cyber Security/TryHackMe/Rooms/Medium/AirPlane",
-    "Cyber Security/TryHackMe/Rooms/Untitled",
     "Programming/Python/Competitve Practice/LeetCode/1.Two Sum.md",
     "Programming/C#/Course1/4.Converting Strings to Numbers.md",
     "Programming/C#/Course1/3.Text-Based data types.md",
@@ -234,7 +245,6 @@
     "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/reactjs-todolist/README.md",
     "Web Development/ReactJS/Untitled.md",
     "Web Development/Untitled.md",
-    "Scripting Practice/Bash Scripting/Learning/2. Hello World.md",
-    "Scripting Practice/Bash Scripting/Learning/3 Variables.md"
+    "Scripting Practice/Bash Scripting/Learning/2. Hello World.md"
   ]
 }

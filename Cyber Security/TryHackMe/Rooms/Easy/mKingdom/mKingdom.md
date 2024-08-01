@@ -124,11 +124,11 @@ The `sudo -l` command in Linux is used to display the allowed (and forbidden) co
 
 
 
-![](../../../../../Pasted%20image%2020240731160205.png)
+![](images/Pasted%20image%2020240731160205.png)
 
 
-![](../../../../../Pasted%20image%2020240731160145.png)
+![](images/Pasted%20image%2020240731160145.png)
 
-![](../../../../../Pasted%20image%2020240731160713.png)
+![](images/Pasted%20image%2020240731160713.png)
 
 
