@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md"
+                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md"
               }
             }
           }
@@ -148,18 +148,26 @@
   },
   "active": "d907f46eace3bcf4",
   "lastOpenFiles": [
+    "Pasted image 20240806102320.png",
+    "Pasted image 20240806102259.png",
+    "Pasted image 20240806102042.png",
+    "Pasted image 20240806095515.png",
+    "Pasted image 20240806095429.png",
+    "Pasted image 20240806094415.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806094152.png",
+    "Pasted image 20240805144742.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
+    "Programming/Python/Tkinter/Python Tkinter Tutorial/Project Based Learning.md",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz",
+    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
+    "Programming/Python/Tkinter/Python Tkinter Tutorial/Project",
+    "Programming/Python/Tkinter/Python Tkinter Tutorial/Images",
+    "Programming/Python/Tkinter/Python Tkinter Tutorial",
+    "Programming/Python/Tkinter",
     "Pasted image 20240805145242.png",
     "Pasted image 20240805145221.png",
-    "Pasted image 20240805144742.png",
     "Pasted image 20240805144244.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images/Pasted image 20240805144414.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images/Pasted image 20240805140720.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images/Pasted image 20240805144022.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images/Pasted image 20240805142245.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images/Pasted image 20240805142050.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images/Pasted image 20240805141746.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images/Pasted image 20240805141445.png",
     "Cyber Security/TryHackMe/Rooms/Easy/Ignite/Ignite.md",
     "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images",
     "Cyber Security/TryHackMe/Rooms/Medium/Weasel",
@@ -170,14 +178,8 @@
     "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
     "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/zbar.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
-    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/images",
-    "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/mKingdom.md",
-    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/images",
-    "Cyber Security/TryHackMe/Rooms/Easy/mKingdom",
     "Cyber Security/TryHackMe/Rooms/Hard/Year of the Owl.md",
-    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify",
-    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/images",
     "Cyber Security/PicoCTF/Untitled.md",
     "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/AirPlane.md",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md",
@@ -192,8 +194,6 @@
     "Programming/Python/Competitve Practice/HackerRank/Algorithms/Solve Me First.md",
     "Programming/C#/Course1/C# course/3.DataTypes.md",
     "Web Development/ReactJS/ReactJS full Course/1.Introduction.md",
-    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md",
-    "Programming/Python/Competitve Practice/HackerRank/Untitled.md",
-    "Programming/C#/C# Pattern Practice/Right-Angled Triangle Star Pattern.md"
+    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md"
   ]
 }
