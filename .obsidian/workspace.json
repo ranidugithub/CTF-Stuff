@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md"
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md"
               }
             }
           }
@@ -148,31 +148,34 @@
   },
   "active": "d907f46eace3bcf4",
   "lastOpenFiles": [
-    "Pasted image 20240806102320.png",
-    "Pasted image 20240806102259.png",
-    "Pasted image 20240806102042.png",
-    "Pasted image 20240806095515.png",
-    "Pasted image 20240806095429.png",
-    "Pasted image 20240806094415.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806094152.png",
-    "Pasted image 20240805144742.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images/Pasted image 20240806160719.png",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images/Pasted image 20240806160435.png",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
     "Programming/Python/Tkinter/Python Tkinter Tutorial/Project Based Learning.md",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
-    "Programming/Python/Tkinter/Python Tkinter Tutorial/Project",
-    "Programming/Python/Tkinter/Python Tkinter Tutorial/Images",
-    "Programming/Python/Tkinter/Python Tkinter Tutorial",
-    "Programming/Python/Tkinter",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/New folder",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/1.Square pattern.md",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/square.py",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/New folder",
+    "Programming/Python/Competitve Practice/HackerRank/Algorithms/Solve Me First.md",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/square.py",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python",
+    "Programming/Python/Python Pattern Practice/Patterns Explained",
+    "Programming/Python/Python Pattern Practice/Square pattern",
+    "Programming/Python/Python Pattern Practice",
+    "Programming/Python/Competitve Practice/LeetCode/1.Two Sum.md",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806094415.png",
     "Pasted image 20240805145242.png",
     "Pasted image 20240805145221.png",
-    "Pasted image 20240805144244.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806095429.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806095515.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102042.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102259.png",
+    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102320.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Ignite/Ignite.md",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/images",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel",
-    "Cyber Security/TryHackMe/Rooms/Easy/Ignite/images",
-    "Cyber Security/TryHackMe/Rooms/Easy/Ignite",
     "Untitled.canvas",
     "2024-08-01.md",
     "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
@@ -183,7 +186,6 @@
     "Cyber Security/PicoCTF/Untitled.md",
     "Cyber Security/TryHackMe/Rooms/Medium/AirPlane/AirPlane.md",
     "Cyber Security/TryHackMe/Walkthrough/Easy/Critical/Critical.md",
-    "Programming/Python/Competitve Practice/LeetCode/1.Two Sum.md",
     "Programming/C#/Course1/4.Converting Strings to Numbers.md",
     "Programming/C#/Course1/3.Text-Based data types.md",
     "Programming/C#/Course1/2.HelloWorld.md",
@@ -191,9 +193,6 @@
     "Cyber Security/TryHackMe/Rooms/Easy/Capture!/Capture!.md",
     "Programming/Python/Course/OOP Python Course/2.Introduction OOP.md",
     "Programming/Python/Course/OOP Python Course/1.Course Overview.md",
-    "Programming/Python/Competitve Practice/HackerRank/Algorithms/Solve Me First.md",
-    "Programming/C#/Course1/C# course/3.DataTypes.md",
-    "Web Development/ReactJS/ReactJS full Course/1.Introduction.md",
-    "Web Development/ReactJS/ReactJS full Course/2.Todo List Project/Todo List.md"
+    "Programming/C#/Course1/C# course/3.DataTypes.md"
   ]
 }
