@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md"
+                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "d907f46eace3bcf4",
   "lastOpenFiles": [
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/images/Pasted image 20240806162604.png",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Left-Angles Triangle/Left-Angles Triangle.md",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/right-angled_triangle.py",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Left-Angles Triangle/lef-angled_triangle.py",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/images",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images/Pasted image 20240806160719.png",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images/Pasted image 20240806160435.png",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
     "Programming/Python/Tkinter/Python Tkinter Tutorial/Project Based Learning.md",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/New folder",
@@ -160,10 +167,6 @@
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/New folder",
     "Programming/Python/Competitve Practice/HackerRank/Algorithms/Solve Me First.md",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/square.py",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python",
-    "Programming/Python/Python Pattern Practice/Patterns Explained",
-    "Programming/Python/Python Pattern Practice/Square pattern",
-    "Programming/Python/Python Pattern Practice",
     "Programming/Python/Competitve Practice/LeetCode/1.Two Sum.md",
     "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
     "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806094415.png",
@@ -173,7 +176,6 @@
     "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806095515.png",
     "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102042.png",
     "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102259.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102320.png",
     "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Ignite/Ignite.md",
     "Untitled.canvas",
@@ -191,8 +193,6 @@
     "Programming/C#/Course1/2.HelloWorld.md",
     "Programming/C#/Course1/1.Introduction.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Capture!/Capture!.md",
-    "Programming/Python/Course/OOP Python Course/2.Introduction OOP.md",
-    "Programming/Python/Course/OOP Python Course/1.Course Overview.md",
-    "Programming/C#/Course1/C# course/3.DataTypes.md"
+    "Programming/Python/Course/OOP Python Course/2.Introduction OOP.md"
   ]
 }
