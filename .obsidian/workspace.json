@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium/Sleuthkit Apprentice/Sleuthkit Apprentice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium/Sleuthkit Apprentice/Sleuthkit Apprentice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium/Sleuthkit Apprentice/Sleuthkit Apprentice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md"
+                "file": "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium/Sleuthkit Apprentice/Sleuthkit Apprentice.md"
               }
             }
           }
@@ -148,39 +148,42 @@
   },
   "active": "d907f46eace3bcf4",
   "lastOpenFiles": [
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/images/Pasted image 20240806162604.png",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Left-Angles Triangle/Left-Angles Triangle.md",
+    "Pasted image 20240813125635.png",
+    "Pasted image 20240813125618.png",
+    "Pasted image 20240813125543.png",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium/Sleuthkit Apprentice/Sleuthkit Apprentice.md",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium/Sleuthkit Apprentice/images",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium/Sleuthkit Apprentice",
+    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/medium",
+    "Cyber Security/TryHackMe/Rooms/Easy/Publisher/Publisher.md",
+    "Pasted image 20240810150050.png",
+    "Pasted image 20240810150029.png",
+    "Pasted image 20240810145809.png",
+    "Pasted image 20240810145321.png",
+    "Pasted image 20240810145003.png",
+    "Pasted image 20240810144417.png",
+    "Pasted image 20240810144116.png",
+    "Pasted image 20240810142651.png",
+    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
+    "Cyber Security/TryHackMe/Rooms/Easy/Publisher/images",
+    "Cyber Security/TryHackMe/Rooms/Easy/Publisher",
+    "Cyber Security/TryHackMe/Rooms/Easy/Ignite/Ignite.md",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/Right-Angles Triangle.md",
+    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Left-Angles Triangle/Left-Angles Triangle.md",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/right-angled_triangle.py",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Left-Angles Triangle/lef-angled_triangle.py",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/1.Square pattern.md",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle/images",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Right-Angles Triangle",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images/Pasted image 20240806160719.png",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images/Pasted image 20240806160435.png",
     "Programming/Python/Tkinter/Python Tkinter Tutorial/Project Based Learning.md",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/images",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/New folder",
     "Programming/Python/Python Pattern Practice/Patterns_in_Python/1.Square pattern.md",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square/square.py",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/Square",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/New folder",
     "Programming/Python/Competitve Practice/HackerRank/Algorithms/Solve Me First.md",
-    "Programming/Python/Python Pattern Practice/Patterns_in_Python/square.py",
     "Programming/Python/Competitve Practice/LeetCode/1.Two Sum.md",
     "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/0x41haz.md",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806094415.png",
-    "Pasted image 20240805145242.png",
-    "Pasted image 20240805145221.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806095429.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806095515.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102042.png",
-    "Cyber Security/TryHackMe/Rooms/Easy/0x41haz/images/Pasted image 20240806102259.png",
-    "Cyber Security/TryHackMe/Rooms/Medium/Weasel/Weasel.md",
-    "Cyber Security/TryHackMe/Rooms/Easy/Ignite/Ignite.md",
     "Untitled.canvas",
     "2024-08-01.md",
-    "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/Verify.md",
     "Cyber Security/PicoCTF/PicoCTF 2024/Forensics/Easy/verify/zbar.md",
     "Cyber Security/TryHackMe/Rooms/Easy/Wiseguy/Wise guy.md",
     "Cyber Security/TryHackMe/Rooms/Easy/mKingdom/mKingdom.md",
@@ -191,8 +194,6 @@
     "Programming/C#/Course1/4.Converting Strings to Numbers.md",
     "Programming/C#/Course1/3.Text-Based data types.md",
     "Programming/C#/Course1/2.HelloWorld.md",
-    "Programming/C#/Course1/1.Introduction.md",
-    "Cyber Security/TryHackMe/Rooms/Easy/Capture!/Capture!.md",
-    "Programming/Python/Course/OOP Python Course/2.Introduction OOP.md"
+    "Programming/C#/Course1/1.Introduction.md"
   ]
 }

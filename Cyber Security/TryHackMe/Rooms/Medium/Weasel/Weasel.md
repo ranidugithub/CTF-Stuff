@@ -117,12 +117,12 @@ To further explore the contents of the `datasci-team` SMB share on the server `1
 ![](images/Pasted%20image%2020240805144414.png)
 
 
-![](../../../../../Pasted%20image%2020240805144742.png)
+![](images/Pasted%20image%2020240805144742.png)
 
 
-![](../../../../../Pasted%20image%2020240805145221.png)
+![](images/Pasted%20image%2020240805145221.png)
 
 
-![](../../../../../Pasted%20image%2020240805145242.png)
+![](images/Pasted%20image%2020240805145242.png)
 
 
